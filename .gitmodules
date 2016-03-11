@@ -1,0 +1,3 @@
+[submodule "branch1/gitrepo.git"]
+	path = branch1/gitrepo.git
+	url = ../../sunil1125/gitrepo.git
